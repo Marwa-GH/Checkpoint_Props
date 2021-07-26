@@ -9,7 +9,7 @@ function App() {
   const profession = "etudiante"
 
   return (
-    <table bordr="2">
+    
     <div className="App" >
       <header className="App-header">
         
@@ -19,7 +19,7 @@ function App() {
       
   </header>
     </div>
-    </table>
+    
   );
 }
 
